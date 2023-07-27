@@ -176,7 +176,7 @@ li{
 }
 
 .buy-icons button {
-    padding: 10px;
+    padding: 9px;
     border: none;
     border-radius: 5px;
 }
@@ -217,6 +217,10 @@ li{
     width: 90%;
 }
 
+.discount-img {
+    position: relative;
+}
+
 .discount-info {
     width: 50%;
 }
@@ -234,6 +238,16 @@ li{
     border: none;
     border-radius: 5px;
     background-color: #E893CF;
+}
+
+.discount {
+    width: 30px;
+    background-color: #F6FFA6;
+    padding: 20px;
+    border-radius: 50%;
+    position: absolute;
+    top: 10px;
+    right: 90px;
 }
 
 /* Review Section Style */
