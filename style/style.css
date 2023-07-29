@@ -101,6 +101,14 @@ li{
     margin: 20px 0px;
 }
 
+.hero-btn {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 5px;
+    border: 2px solid #e893cf;
+}
+
 .social {
     display: flex;
     justify-content: space-between;
